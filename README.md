@@ -1,10 +1,9 @@
-## 🚀 Api10-Produto-Oracle
-Exemplo de API relação 1-N em C# ASP.NET Core 10 EF com banco de dados Oracle.
+## 🚀 Api10-Produtos-Oracle
+Exemplo de API relação 1-N Eager Loading em C# ASP.NET Core 10 EF com banco de dados Oracle.
 
 #### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
 |-----------|-----------|
-| **DTO** | Separação de responsabilidades, desacoplamento de modelos de entrada (Request) e saída (Response) |
 | **Eager Loading** | Carregar entidades relacionadas na mesma consulta inicial |
 
 #### 💬 Requisitos do Projeto
