@@ -1,5 +1,5 @@
 ## 🚀 Api10-Produto-Oracle
-Exemplo de API relação 1-N em C# ASP.NET Core 10 Entity Framework com banco de dados Oracle.
+Exemplo de API relação 1-N em C# ASP.NET Core 10 EF com banco de dados Oracle.
 
 #### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
