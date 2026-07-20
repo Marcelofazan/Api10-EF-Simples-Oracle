@@ -1,4 +1,4 @@
-## 🚀 Api10-Produtos-Oracle
+## 🚀 Api-Produtos-Oracle
 Exemplo de API relação 1-N Eager Loading em C# ASP.NET Core 10 EF com banco de dados Oracle.
 
 #### 📋 O que você vai encontrar neste projeto
